@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @moussa-elAqqaoui
+- 👋 Hi, I’m Moussa EL Aqqaoui
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning kubernetes, spring boot, Redis postGIS ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moussa.elaqqaoui@gmail.com
 
 <!---
